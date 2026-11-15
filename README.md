@@ -23,5 +23,7 @@ Ensure reliable communication between the application and the microcontroller.
 Test the complete system and verify its functionality.
 
 Project Progress:
+
 #2-8.11.2026 Defining project golas and milestones.
+
 #9-15.11.2026 Reserch and familiarization with equipment documentation.
